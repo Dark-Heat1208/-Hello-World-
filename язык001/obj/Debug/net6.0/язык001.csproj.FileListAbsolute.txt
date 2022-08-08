@@ -1,0 +1,15 @@
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\bin\Debug\net6.0\язык001.exe
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\bin\Debug\net6.0\язык001.deps.json
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\bin\Debug\net6.0\язык001.runtimeconfig.json
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\bin\Debug\net6.0\язык001.dll
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\bin\Debug\net6.0\язык001.pdb
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\obj\Debug\net6.0\язык001.csproj.AssemblyReference.cache
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\obj\Debug\net6.0\язык001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\obj\Debug\net6.0\язык001.AssemblyInfoInputs.cache
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\obj\Debug\net6.0\язык001.AssemblyInfo.cs
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\obj\Debug\net6.0\язык001.csproj.CoreCompileInputs.cache
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\obj\Debug\net6.0\язык001.dll
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\obj\Debug\net6.0\refint\язык001.dll
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\obj\Debug\net6.0\язык001.pdb
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\obj\Debug\net6.0\язык001.genruntimeconfig.cache
+C:\Users\Мартышлюшка\Desktop\первый язык\язык001\obj\Debug\net6.0\ref\язык001.dll
